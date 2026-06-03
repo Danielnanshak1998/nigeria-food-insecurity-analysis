@@ -1,6 +1,4 @@
-# nigeria-food-insecurity-analysis
-A state-by-state Excel analysis of Nigeria's acute food insecurity crisis using Cadre Harmonisé (FAO/WFP) data 2022–2025
-# 🇳🇬 Nigeria Food Insecurity Crisis — Data Analysis 2022–2025
+🇳🇬 Nigeria Food Insecurity Crisis — Data Analysis 2022–2025
 
 ## Project Overview
 A state-by-state Excel analysis of Nigeria's acute food insecurity crisis 
