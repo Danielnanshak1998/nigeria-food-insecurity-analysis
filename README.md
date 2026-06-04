@@ -31,7 +31,7 @@ policymakers and NGOs actually need answered.
 ## Dashboard Preview
 
 
-![Dashboard](dashboard_preview.png)
+![Dashboard](https://github.com/Danielnanshak1998/nigerian-food-crisis-analysis/tree/main)
 
 
 
